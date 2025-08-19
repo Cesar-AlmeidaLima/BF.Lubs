@@ -11,6 +11,8 @@ As principais medidas usadas para fazer as análises foram SUM e DIVIDE.
 
 ## 📸 Dashboard
 Algumas imagens de como ficou o DashBoard
+![Screenshot do projeto](./imagens/Captura de tela 2025-08-19 203443.png)
+
 
 ## 📊 Informações Gerais sobre o Projeto
 Esse projeto inicial foi feito com a missão de treinar conceitos básicos na minha formação, como criação de DashBoards, Análise e interpretação de dados e manipulação de medidas.
