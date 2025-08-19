@@ -16,11 +16,11 @@ Algumas imagens de como ficou o DashBoard
 </p>
 
 <p align="center">
-  <img src="https://github.com/Cesar-AlmeidaLima/BF.Lubs/blob/main/Imagens/Captura de tela 2025-08-19 203501raw=true" alt="Meu Primeiro Dashboard em Power BI" width="80%"/>
+  <img src="https://github.com/Cesar-AlmeidaLima/BF.Lubs/blob/main/Imagens/Captura de tela 2025-08-19 203501.png?raw=true" alt="Meu Primeiro Dashboard em Power BI" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Cesar-AlmeidaLima/BF.Lubs/blob/main/Imagens/Captura de tela 2025-08-19 203524raw=true" alt="Meu Primeiro Dashboard em Power BI" width="80%"/>
+  <img src="https://github.com/Cesar-AlmeidaLima/BF.Lubs/blob/main/Imagens/Captura de tela 2025-08-19 203524.png?raw=true" alt="Meu Primeiro Dashboard em Power BI" width="80%"/>
 </p>
 
 
