@@ -11,7 +11,9 @@ As principais medidas usadas para fazer as análises foram SUM e DIVIDE.
 
 ## 📸 Dashboard
 Algumas imagens de como ficou o DashBoard
-![Screenshot do projeto](./imagens/Captura de tela 2025-08-19 203443.png)
+<p align="center">
+  <img src="https://github.com/Cesar-AlmeidaLima/BF.Lubs/blob/main/Imagens/Captura de tela 2025-08-19 203443.png?raw=true" alt="Meu Primeiro Dashboard em Power BI" width="80%"/>
+</p>
 
 
 ## 📊 Informações Gerais sobre o Projeto
