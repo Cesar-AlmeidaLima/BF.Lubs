@@ -2,7 +2,7 @@
 
 ## 🚀 Meu primeiro projeto
 Este repositório serve para armazenar meu primeiro projeto em Power BI/SQL e marcar o começo da minha jornada como Analista de Dados!
-Feito com a ajuda das videos aulas do Curso SQL para Análise de Dados pela Comunidade Bruce.
+Feito com a ajuda das videoaulas do Curso SQL para Análise de Dados pela Comunidade Bruce.
 
 ## ⚙️ Explicações Técnicas
 As principais medidas usadas para fazer as análises foram SUM e DIVIDE.
